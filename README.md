@@ -8,7 +8,7 @@ This repository contains the list of practicals of the subject Analysis and Desi
 * This practical provides the shortest path
 
 ### BinarySearch
-
+* This practical will help us to find the key element in an array
 
 ### BinomialCoefficient
 
